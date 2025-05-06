@@ -1,2 +1,12 @@
 # Nonogram
-This repository features a Nonogram (Picross) Puzzle Solver &amp; Generator, enabling users to create, solve, and play Nonograms. It includes an efficient solving algorithm, puzzle generation, interactive gameplay, and custom puzzle input. Users can get hints or auto-solve puzzles.  Tech Stack: Python, 
+A simple text-based implementation of the Nonogram (Picross) puzzle game in Python.
+
+## How to Play
+- Run `nonogram.py` in a Python interpreter.
+- Input row and column numbers to toggle cells.
+- Try to match the solution to solve the puzzle.
+
+## Features
+- 5x5 sample puzzle included
+- Terminal-based input
+- Easy to customize and expand
